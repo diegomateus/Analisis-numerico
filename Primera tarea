@@ -77,3 +77,5 @@ double Funcion(double X)
 {
 	return(pow((1+X),10)-1)/(X*pow((1+X),10))-5;
 }
+¿Para que sirve el método de los mínimos cuadrados en la ingeniería de sistemas?
+R// Ya que el método de los mínimos cuadrados sirve para predecir el futuro comportamiento de cierta combinación de variables esto se podría usar en una empresa de desarrollo de software para poder predecir las ganancias de cierto producto, ya que tenemos una variable independiente que seria el costo de producir cierto sistema y la dependiente seria la cantidad a cobrar por el determinado producto ya que tenemos que generar cierta ganancia.
